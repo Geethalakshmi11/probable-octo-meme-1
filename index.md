@@ -4,6 +4,8 @@ My name is _Caran D’Arche_. I am a pencil, and I was born in **Geneva**. A few
 
 [Google home page](https://www.google.com)
 
+![matrix of style guides](EDOy17BUEAAWWGu.jpg)
+
 ## What do I do?
 
 My professional areas of interest include drawing, sketching, and designing. I specialise in drawing space-rovers and drone-probes.
